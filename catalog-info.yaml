@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-angular-scaffoling
+  description: Backstage Angular scaffolding
+spec:
+  type: website
+  lifecycle: experimental
+  owner: foo-team
