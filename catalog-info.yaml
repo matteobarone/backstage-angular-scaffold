@@ -3,7 +3,13 @@ kind: Component
 metadata:
   name: backstage-angular-scaffoling
   description: Backstage Angular scaffolding
+  tags:
+    - angular
+    - typescript
+  annotations:
+    backstage.io/techdocs-ref: value
 spec:
   type: website
   lifecycle: experimental
   owner: team-a
+  system: artist-engagement-portal
