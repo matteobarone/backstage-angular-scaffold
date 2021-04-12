@@ -7,7 +7,7 @@ metadata:
     - angular
     - typescript
   annotations:
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: https://github.com/matteobarone/backstage-angular-scaffold-two/blob/master/README.md
 spec:
   type: website
   lifecycle: experimental
